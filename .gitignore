@@ -1,1 +1,16 @@
-*.csv
+/Evalita2023/*
+/Task A contextual/*
+!/Task A contextual/AlBERTo_BiLSTM_contextual.ipynb
+!Task A contextual/AlBERTo_BiLSTM+CNN_contextual.ipynb
+!Task A contextual/GilBERTo_BiLSTM_contextual.ipynb
+!Task A contextual/GilBERTo_BiLSTM+CNN_contextual.ipynb
+!Task A contextual/UmBERTo_BiLSTM+CNN_contextual.ipynb
+!Task A contextual/UmBERTo_LSTM_contextual.ipynb
+/Task B/*
+!Task B/alberto_retraining_taskB.ipynb
+!Task B/alberto-grid-bilstm-taskb.ipynb
+!Task B/alberto-grid-lstm-taskb.ipynb
+!Task B/alberto128-grid-lstm-taskb.ipynb
+!Task B/gilberto_grid_taskb.ipynb
+!Task B/gilberto_retraining_taskB.ipynb
+!Task B/gilberto128_grid_taskb.ipynb
