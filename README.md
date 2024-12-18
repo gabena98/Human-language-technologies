@@ -27,3 +27,14 @@ Participants can optionally incorporate external data sources for Task B.
 - **ReligiousHate**: Dataset for religious hate speech detection.
 
 ---
+## Performance Results
+
+| Team        | Task A (textual/contextual) | Task B (XPoliticalHate) | Task B (XReligiousHate) |
+|-------------|----------------------------|-------------------------|-------------------------|
+| **our team** | **0.9192**                 | **0.9192**              | 0.6476                  |
+| BERTicelli  | 0.8976                     | 0.8976                  | 0.5401                  |
+| CHILab      | 0.8516                     | 0.8516                  | -                       |
+| extremITA   | 0.9079                     | 0.9079                  | **0.6525**              |
+| INGEOTEC    | 0.8845                     | 0.8845                  | 0.5522                  |
+| LMU         | -                          | 0.9014                  | 0.6461                  |
+| odang4      | 0.9128                     | 0.9128                  | 0.5213                  |
